@@ -1,0 +1,1 @@
+data class Pasien(val nama: String, val umur: Int, val alamat: String)
